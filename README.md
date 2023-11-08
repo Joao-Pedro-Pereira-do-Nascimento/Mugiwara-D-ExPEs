@@ -2,15 +2,12 @@
 <div>
   
   <a href="https://github.com/Mugiwara-D-ExPEs">
-<br>
-- 🔭 I’m currently working on Python and C
-- 🌱 I’m currently learning IFCE - Campus Crato
-- 😄 Pronouns: Ele/Dele
-<br>
-
-
-
-
+<div>
+<br>- 🔭 I’m currently working on Python and C
+<br>- 🌱 I’m currently learning IFCE - Campus Crato
+<br>- 😄 Pronouns: Ele/Dele
+</div>
+<br>    
 <p align="center">"Solving significant challenges through technology with a focus on back-end development using the C language. I'm <strong>enthusiastic about exploring new approaches</strong> and applying them to create high-quality solutions. Currently, I'm a <strong>mid-level full-stack developer</strong> with specialization in C back-end development."</p>
  
  &nbsp;
