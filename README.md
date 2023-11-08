@@ -1,8 +1,7 @@
 ### Hi I'am João Pedro Pereira do Nascimento 👋
 <div>
+  
   <a href="https://github.com/Mugiwara-D-ExPEs">
-
-
 - 🔭 I’m currently working on Python and C
 - 🌱 I’m currently learning IFCE - Campus Crato
 - 😄 Pronouns: Ele/Dele
@@ -10,7 +9,8 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Mugiwara-D-ExPEs/Mugiwara-D-ExPEs/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">"Solving significant challenges through technology with a focus on back-end development using the C language. I'm <strong>enthusiastic about exploring new approaches</strong> and applying them to create high-quality solutions. Currently, I'm a <strong>mid-level full-stack developer</strong> with specialization in C back-end development."</p>&nbsp; Today, I'm a <strong>mid-level full-stack developer</strong> focused on web development.
+
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Mugiwara-D-ExPEs&theme=radical&mode=weekly" />
