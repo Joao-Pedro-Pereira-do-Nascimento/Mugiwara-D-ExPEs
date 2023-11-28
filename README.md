@@ -1,16 +1,16 @@
 ### Hi I'am João Pedro Pereira do Nascimento 👋
 <div>
   
-  <a href="https://github.com/Mugiwara-D-ExPEs">
+  <a href="https://github.com/Joao-Pedro-Pereira-do-Nascimento">
 <div>
 <br>- 🔭 I’m currently working on Python and C
 <br>- 🌱 I’m currently learning IFCE - Campus Crato
 <br>- 😄 Pronouns: Ele/Dele
 </div>
 <br> 
-  <img align='left' src="https://github-readme-stats.vercel.app/api?username=Mugiwara-D-ExPEs&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+  <img align='left' src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-Pereira-do-Nascimento&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 </a>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugiwara-D-ExPEs&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" />
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Pereira-do-Nascimento&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" />
 </a>
 <p align="center">"Solving significant challenges through technology with a focus on back-end development using the C language. I'm <strong>enthusiastic about exploring new approaches</strong> and applying them to create high-quality solutions. Currently, I'm a <strong>mid-level full-stack developer</strong> with specialization in C back-end development."</p>
  
@@ -33,9 +33,6 @@
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Secondary Stack:
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
