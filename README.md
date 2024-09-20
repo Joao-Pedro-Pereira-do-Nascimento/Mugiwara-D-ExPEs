@@ -24,7 +24,6 @@
 #### Main Stack:
 
 <p align="center">
-  #### Workstation Tools:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,js,java,py,fastapi,git,docker,postman,mysql" />
   </a>
