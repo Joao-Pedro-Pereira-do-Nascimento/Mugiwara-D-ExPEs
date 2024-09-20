@@ -3,7 +3,7 @@
   
   <a href="https://github.com/Joao-Pedro-Pereira-do-Nascimento">
 <div>
-<br>- 🔭 I’m currently working on Python and C
+<br>- 🔭 I’m currently working on Python and Java
 <br>- 🌱 I’m currently learning IFCE - Campus Crato
 
 </div>
@@ -21,6 +21,9 @@
 
 ## My Skills
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
 #### Main Stack:
 <p align="center">
   <a href="https://skillicons.dev">
@@ -29,7 +32,6 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Workstation Tools:
 <p align="center">  
