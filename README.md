@@ -21,16 +21,15 @@
 
 ## My Skills
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-
-#### Main Stack:
-<p align="center">
+#### Main Stack::
+<p align="center">  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,js,java,py,fastapi,git,docker,postman,mysql" />
   </a>
 </p>
 
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 #### Workstation Tools:
