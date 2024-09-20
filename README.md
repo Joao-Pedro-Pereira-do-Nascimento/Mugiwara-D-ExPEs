@@ -21,7 +21,7 @@
 
 ## My Skills
 
-#### Main Stack::
+#### Main Stack:
 <p align="center">  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,js,java,py,fastapi,git,docker,postman,mysql" />
